@@ -1,5 +1,6 @@
 // C++ code
-//
+// ! + (variante) = se for falso, se for verdadeirto nõa precisa do !
+
 
 int var1;
 int var2;
